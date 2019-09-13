@@ -20,9 +20,7 @@
         <trackTrending>false</trackTrending>
         <type>Phone</type>
     </fields>
-    <!--  testing commit 1 -->
-  
-    
+
     <fields>
         <fullName>test__c</fullName>
         <externalId>false</externalId>
