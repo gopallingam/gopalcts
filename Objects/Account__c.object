@@ -20,8 +20,7 @@
         <trackTrending>false</trackTrending>
         <type>Phone</type>
     </fields>
-
-    <fields>
+  <fields>
         <fullName>test__c</fullName>
         <externalId>false</externalId>
         <label>test</label>
