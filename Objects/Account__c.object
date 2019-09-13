@@ -12,6 +12,7 @@
         <type>Text</type>
         <unique>false</unique>
     </fields>
+    <this is my change>
     <fields>
         <fullName>test12345__c</fullName>
         <externalId>false</externalId>
